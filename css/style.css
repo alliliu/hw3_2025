@@ -81,6 +81,7 @@ first div in the grid and place it in the grid. */
   max-height: 600px; 
   overflow: hidden; /* hide content that goes outside of grid cell */
 }
+/* W3 schools overflow: https://www.w3schools.com/css/css_overflow.asp */
 
 .about-image { 
   grid-row: 2 / span 1; 
